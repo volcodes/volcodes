@@ -1,21 +1,11 @@
-## 👋 Hi, I’m @volcodes (Mehmet)
+## 👋 Hi, I’m Mehmet
 
 I'm a **Software Specialist** based in Berlin, originally from Turkey. 
 With over 10 years of experience building modern, user-focused **web** applications, 
 I specialize in **JavaScript, Vue, Nuxt, React**, and the broader frontend ecosystem. I combine strong engineering skills with a deep interest in psychology, awareness, and human-centered design.
 
----
 
-### 👀 I’m interested in:
-- Frontend architecture, design systems, design patterns, OOP, SOLID, and web performance
-- Developer experience (DX) and tooling
-- Cloud infrastructure & DevOps (AWS, Docker, Terraform, Kubernetes)
-- Software consulting & digital transformation strategy
-- Psychology, neurology, and mental models for better software and better teams
-
----
-
-### 🌱 I’m currently learning:
+### 🌱 Currently learning:
 - Cloud-native deployments with AWS S3, CloudFront, and Route 53
 - Infrastructure as code (Terraform, Pulumi)
 - GitHub Actions for CI/CD workflows

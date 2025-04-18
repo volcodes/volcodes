@@ -36,9 +36,8 @@ I specialize in **JavaScript, Vue, Nuxt, React**, and the broader frontend ecosy
 
 ### 📫 How to reach me:
 - Portfolio: [https://volcodes.org](https://volcodes.org)
-- Email: me@volcodes.org
-- LinkedIn: [linkedin.com/in/volkanfrontend](https://linkedin.com/in/volkanfrontend)
-- Twitter: [@volcodes](https://twitter.com/volcodes)
+- Email: deveci2024@gmail.com
+- LinkedIn: [linkedin.com/in/deveci96](https://linkedin.com/in/deveci96)
 
 ---
 

@@ -25,14 +25,12 @@ I specialize in **JavaScript, Vue, Nuxt, React**, and the broader frontend ecosy
 ---
 
 ### 💞️ I’m looking to collaborate on:
-- 🚀 **Modern web apps** using Vue 3, Nuxt 3, React, or hybrid stacks—especially those focused on speed, accessibility, and exceptional user experience.
-- 🧠 **Developer experience (DX) tooling**—improving build systems, CI/CD pipelines, or internal tools that reduce friction for engineering teams.
-- 🧩 **Frontend system design**—design systems, component libraries, and architecture planning that scale across teams and products.
-- 📊 **Dashboards or analytics UIs**—data-driven tools where clarity and UX drive value.
+- 🚀 **Modern web apps** using Vue 3, Nuxt 3, React, or hybrid stacks.
+- 🧠 **Developer experience (DX) tooling**—improving build systems, CI/CD pipelines.
+- 🧩 **Frontend system design**—design systems, component libraries.
 - ☁️ **Cloud-native projects**—deployments using AWS (S3, CloudFront, Route53), with infrastructure-as-code (Terraform, Pulumi) and containerization (Docker, Kubernetes).
 - 🧪 **Security-first apps**—projects involving authentication, authorization, or modern web security practices (OAuth, JWT, cookie/session management).
 - 🧭 **Technical mentoring or team onboarding initiatives**—helping engineers ramp up fast, structure complex systems, or refactor legacy codebases.
-- 🧠 **Consulting-style side projects**—where I can bridge engineering and strategy to uncover hidden inefficiencies or elevate the product/architecture.
 
 ---
 

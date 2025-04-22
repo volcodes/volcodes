@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mehmet
 
-I'm a **Software Specialist** based in Berlin, originally from Turkey. 
+I'm a **Software Specialist** based in Berlin. 
 With over 10 years of experience building modern, user-focused **web** applications, 
 I specialize in **JavaScript, Vue, Nuxt, React**, and the broader frontend ecosystem. I combine strong engineering skills with a deep interest in psychology, awareness, and human-centered design.
 
@@ -15,7 +15,7 @@ I specialize in **JavaScript, Vue, Nuxt, React**, and the broader frontend ecosy
 ---
 
 ### 💞️ I’m looking to collaborate on:
-- 🚀 **Modern web apps** using Vue 3, Nuxt 3, React, or hybrid stacks.
+- 🚀 **Modern web apps** using Vue, Nuxt, React, or hybrid stacks.
 - 🧠 **Developer experience (DX) tooling**—improving build systems, CI/CD pipelines.
 - 🧩 **Frontend system design**—design systems, component libraries.
 - ☁️ **Cloud-native projects**—deployments using AWS (S3, CloudFront, Route53), with infrastructure-as-code (Terraform, Pulumi) and containerization (Docker, Kubernetes).

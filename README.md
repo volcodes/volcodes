@@ -27,7 +27,7 @@ I'm a **Software Specialist** based in Berlin. With over 10 years of experience 
 
 ### 📫 How to reach me:
 - Portfolio: [https://volcodes.org](https://volcodes.org)
-- A list of achievements I'm proud of: [https://www.volcode.org/?my_achievements=true](https://www.volcode.org/my_achievements)
+- A list of achievements I'm proud of: [https://www.volcode.org/achievements](https://www.volcode.org/?my_achievements=true)
 - A presentation consists of use cases I'm experienced in my previous roles: [https://bit.ly/3ET6wWJ](https://bit.ly/3ET6wWJ)
 - Email: deveci2024@gmail.com
 - LinkedIn: [linkedin.com/in/deveci96](https://linkedin.com/in/deveci96)

@@ -42,11 +42,11 @@ He/Him
 ---
 
 ### ⚡ Fun facts:
-- I moved to Berlin in 2020 and quickly adapted to working in international agile teams.
+- I once debugged a production issue while halfway through a Turkish dinner I was cooking. The fix and the food were both well-done.
 - I’m passionate about mindfulness, cycling, and cooking for friends after a good workout.
 - I love helping others grow through mentorship, meaningful feedback, and open knowledge sharing.
 - I aspire to become a software tech consultant—blending engineering and strategic thinking to guide businesses toward effective, human-centered tech solutions.
 
 ---
 
-Thanks for stopping by! Let’s build something meaningful.
+Thanks for stopping by!

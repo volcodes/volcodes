@@ -29,8 +29,9 @@ I combine strong programming skills with a deep interest in communication, psych
 
 ### 📫 How to reach me:
 - Portfolio: [https://volcode.org](https://volcode.org)
-- A list of achievements I'm proud of: [https://www.volcode.org/achievements](https://www.volcode.org/?my_achievements=true)
+- A list of achievements I'm proud of: [https://bit.ly/439ojkR](https://bit.ly/439ojkR)
 - A presentation consists of use cases I'm experienced in my previous roles: [https://bit.ly/3ET6wWJ](https://bit.ly/3ET6wWJ)
+- My previous roles in companies: https://www.volcode.org/experience/
 - Email: deveci2024@gmail.com
 - LinkedIn: [linkedin.com/in/deveci96](https://linkedin.com/in/deveci96)
 

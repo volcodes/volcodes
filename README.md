@@ -19,7 +19,7 @@ I specialize in **JavaScript, Vue, Nuxt**, feel comfortable working with technol
 - 🏗️ **Frontend application architecture discussions** experienced in MVVM, MVC, Component-Based and Cloud-Native envoirements
 - 🚀 **Modern web apps** experienced in Vue, Nuxt, React, Next, PHP or hybrid stacks.
 - 🧠 **Developer experience (DX) tooling**— experienced in building systems and CI/CD pipelines.
-- 🧠 **Improve web performance**— utilized Node.js effectively to optimize images in build process.
+- ⏩ **Improve web performance**— utilized Node.js effectively to optimize images in build process.
 - 🧩 **Frontend system design**— design systems, component libraries.
 - ☁️ **Cloud-native projects**— deployments using AWS (S3, CloudFront, Route53), with infrastructure-as-code (Terraform) and containerization (Docker).
 - 🧪 **Security-first apps**—projects involving authentication, authorization, or modern web security practices (OAuth, JWT, cookie/session management).

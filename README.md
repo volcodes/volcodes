@@ -2,10 +2,10 @@
 
 I'm a **Software Specialist** based in Berlin. 
 With over 10 years of experience building modern, user-focused **web** applications, 
-I specialize in **JavaScript, Vue, Nuxt**, feel comfortable working with technologies such as Node.js, React, Next.js and the broader frontend and backend ecosystem. I combine strong programming skills with a deep interest in psychology, awareness, and human-centered design.
+I specialize in **JavaScript, Vue, Nuxt**, feel comfortable working with technologies such as **Node.js, React, Next.js** and the broader frontend and backend ecosystem. I combine strong programming skills with a deep interest in psychology, accessibility, education, and human-centered design.
 
 
-### 🌱 Currently learning:
+### 🌱 Currently practicing:
 - Cloud-native topics: AWS, S3, EC2, Elasticsearch, Lambda Functions, CloudFront, Route 53
 - Infrastructure as code (Terraform, Pulumi, Internet and Network)
 - GitHub Actions for CI/CD workflows
@@ -16,11 +16,12 @@ I specialize in **JavaScript, Vue, Nuxt**, feel comfortable working with technol
 ---
 
 ### 💞️ I’m looking to collaborate on:
-- 🏗️ **Frontend application architecture discussions** experienced in MVVM, MVC, Component-Based and Cloud-Native envoirements.
-- 🚀 **Modern web apps** using Vue, Nuxt, React, or hybrid stacks.
-- 🧠 **Developer experience (DX) tooling**—empowering build systems and CI/CD pipelines with Node.js.
-- 🧩 **Frontend system design**—design systems, component libraries.
-- ☁️ **Cloud-native projects**—deployments using AWS (S3, CloudFront, Route53), with infrastructure-as-code (Terraform, Pulumi) and containerization (Docker, Kubernetes).
+- 🏗️ **Frontend application architecture discussions** experienced in MVVM, MVC, Component-Based and Cloud-Native envoirements
+- 🚀 **Modern web apps** experienced in Vue, Nuxt, React, Next, PHP or hybrid stacks.
+- 🧠 **Developer experience (DX) tooling**— experienced in building systems and CI/CD pipelines.
+- 🧠 **Improve web performance**— utilized Node.js effectively to optimize images in build process.
+- 🧩 **Frontend system design**— design systems, component libraries.
+- ☁️ **Cloud-native projects**— deployments using AWS (S3, CloudFront, Route53), with infrastructure-as-code (Terraform) and containerization (Docker).
 - 🧪 **Security-first apps**—projects involving authentication, authorization, or modern web security practices (OAuth, JWT, cookie/session management).
 - 🧭 **Technical mentoring or team onboarding initiatives**—helping engineers ramp up fast, structure complex systems, or refactor legacy codebases.
 
@@ -28,6 +29,8 @@ I specialize in **JavaScript, Vue, Nuxt**, feel comfortable working with technol
 
 ### 📫 How to reach me:
 - Portfolio: [https://volcodes.org](https://volcodes.org)
+- A list of achievements I'm proud of: [https://volcode.org](https://www.volcode.org/?my_achievements=true](https://volcodes.org?](https://www.volcode.org/?my_achievements=true)
+- A presentation consists of use cases I'm experienced in my previous roles: [https://bit.ly/3ET6wWJ](https://bit.ly/3ET6wWJ)
 - Email: deveci2024@gmail.com
 - LinkedIn: [linkedin.com/in/deveci96](https://linkedin.com/in/deveci96)
 

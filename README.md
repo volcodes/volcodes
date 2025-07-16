@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mehmet
 
-I'm a **Software Specialist** based in Berlin. With over 10 years of experience building modern, user-focused **web** applications. I specialize in **JavaScript, Vue, Nuxt** and feel comfortable working with **Node.js, React, Next.js** and the broader frontend and backend ecosystem-**SQL, PHP**. 
+I'm a **Software Engineer** based in Berlin. With over 10 years of experience building modern, user-focused **web** applications. I specialize in **JavaScript, Vue, Nuxt** and feel comfortable working with **Node.js, React, Next.js** and the broader frontend and backend ecosystem-**SQL, PHP**. 
 
 I combine strong programming skills with a deep interest in communication, psychology, education, and software architecture. 
 

@@ -6,17 +6,17 @@ I am genuinely interested in systems thinking, psychology, neurology, communicat
 
 ### 🛠️ Currently working with:
 
-- React 18 (Mobile, Web)
-- B2B SaaS product for terminals, depots and warehouses (Vue 3)
+- SaaS product for school owners and teachers (React 18)
+- B2B SaaS product for terminals, depots, and warehouses (Vue 3)
 - Education platform for kids: role-based admin panel, gamified student reading app
 - Java Spring Boot microservices + Google Pub/Sub
 - Leverage BPMN, UML, to automate and optimize software engineering workflows
-- AI development with Claude Code, GCP, Gemini and Veo 3.1
+- AI development with Claude Code, GCP, Gemini, and Veo 3.1
 - Terraform + Cloudflare infrastructure (Pages, Workers, R2)
 - Improving monitoring and observability with Datadog
 - Maintaining 3 online products' infrastructure with Terraform
 - Building backend services with Node.js and Go
-- AI-powered digital marketing pipeline for small and medium-sized companies 
+- AI-powered digital marketing pipeline for small and medium-sized companies (https://antakyabakkali.com/, https://plantim.app/, https://www.hataygurme.com.tr/)
 
 ---
 

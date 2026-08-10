@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Berlin, building software that solves complex challenges through thoughtful product design, automation, and scalable engineering.
 
-I am geniunly interested in systems thinking, psychology, neurology, communication, AI in education, and software engineering.
+I am genuinely interested in systems thinking, psychology, neurology, communication, AI in education, and software engineering.
 
 ### 🛠️ Currently working with:
 
@@ -14,17 +14,18 @@ I am geniunly interested in systems thinking, psychology, neurology, communicati
 - AI development with Claude Code, GCP, Gemini and Veo 3.1
 - Terraform + Cloudflare infrastructure (Pages, Workers, R2)
 - Improving monitoring and observability with Datadog
-- 
-- Maintaining 3 online products infrastructure with Terraform
+- Maintaining 3 online products' infrastructure with Terraform
+- Building backend services with Node.js and Go
+- AI-powered digital marketing pipeline for small and medium-sized companies 
 
 ---
 
 ### 💞️ I’m looking to collaborate on:
 
 - 🏗️ **Application architecture**— experienced in MVVM, MVC, Component-Based, Microservices, and Event-Driven architectures
-- 🚀 **Modern web apps**— experienced in Vue, Nuxt, React, Next, Java Spring Boot, or hybrid stacks
-- 🤖 **AI-integrated applications**— building with Gemini, Veo, and AI-powered workflows
-- 🎓 **Education technology**— role-based platforms, gamification, and multi-language systems
+- 🚀 **Modern web apps**— experienced in React, Vue, Next.js, Astro, Java Spring Boot, or hybrid stacks
+- 🤖 **AI-integrated applications**— building with Claude Code, N8N, Gemini, Veo, and AI-powered workflows
+- 🎓 **Education and reading technology**— role-based platforms, gamification, and multi-language systems
 - 🧪 **Testing and code quality**— raising coverage, fixing flaky tests, and building reliable CI/CD pipelines
 - 🧩 **Frontend system design**— design systems, component libraries
 - ☁️ **Cloud-native projects**— deployments using AWS and Cloudflare, with infrastructure-as-code (Terraform) and containerization (Docker)
@@ -35,10 +36,10 @@ I am geniunly interested in systems thinking, psychology, neurology, communicati
 
 ### 📫 How to reach me:
 
-- Portfolio: <https://volcode.org>
+- Portfolio: <https://volcodeorg-app.vercel.app/>
 - A list of achievements I'm proud of: <https://bit.ly/439ojkR>
-- A presentation consists of use cases I'm experienced in my previous roles: <https://bit.ly/3ET6wWJ>
-- My previous roles in companies: https://www.volcode.org/experience/
+- A presentation consisting of use cases I'm experienced in my previous roles: <https://bit.ly/3ET6wWJ>
+- My previous roles in companies: [https://www.volcode.org/experience/](https://volcodeorg-app.vercel.app/experience)
 - Email: deveci2024@gmail.com
 - LinkedIn: [linkedin.com/in/deveci96](https://linkedin.com/in/deveci96)
 
